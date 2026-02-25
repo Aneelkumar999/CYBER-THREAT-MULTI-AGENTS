@@ -82,7 +82,6 @@ class DataCollectionAgent:
                         
                     # Maintain correct attack category labels if possible
                     if 'Attack Type' in df.columns:
-                        df = pd.read_csv("data/cybersecurity_attacks.csv") # direct injection
                         df['attack_cat'] = df['Attack Type'].fillna('Normal')
                     elif 'attack_cat' in df.columns:
                         df['attack_cat'] = df['attack_cat'].fillna('Normal')

@@ -73,4 +73,4 @@ def run_batch():
             print(f"Response: {result['response_recommendation']}")
 
 if __name__ == "__main__":
-    main()
+    run_batch()
