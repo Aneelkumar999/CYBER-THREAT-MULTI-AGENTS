@@ -1,0 +1,1002 @@
+[
+    {
+        "timestamp": "2026-02-23T20:21:03.139232",
+        "src_ip": "192.168.1.147",
+        "dst_ip": "151.72.1.1",
+        "src_port": 53784,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 306,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:05.139232",
+        "src_ip": "192.168.1.215",
+        "dst_ip": "88.155.1.1",
+        "src_port": 11971,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 421,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:07.139232",
+        "src_ip": "192.168.1.3",
+        "dst_ip": "91.57.1.1",
+        "src_port": 37700,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 1280,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:09.139232",
+        "src_ip": "192.168.1.178",
+        "dst_ip": "116.105.1.1",
+        "src_port": 20514,
+        "dst_port": 22,
+        "protocol": "ICMP",
+        "packet_size": 1040,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:11.139232",
+        "src_ip": "192.168.1.33",
+        "dst_ip": "149.135.1.1",
+        "src_port": 61773,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 1445,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:13.139232",
+        "src_ip": "192.168.1.62",
+        "dst_ip": "218.215.1.1",
+        "src_port": 38830,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 828,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:15.139232",
+        "src_ip": "192.168.1.128",
+        "dst_ip": "210.181.1.1",
+        "src_port": 22231,
+        "dst_port": 4444,
+        "protocol": "TCP",
+        "packet_size": 39535,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:17.139232",
+        "src_ip": "192.168.1.167",
+        "dst_ip": "211.37.1.1",
+        "src_port": 45510,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 554,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:19.139232",
+        "src_ip": "192.168.1.174",
+        "dst_ip": "186.220.1.1",
+        "src_port": 34704,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 1421,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:21.139232",
+        "src_ip": "192.168.1.17",
+        "dst_ip": "212.188.1.1",
+        "src_port": 25952,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 886,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:23.139232",
+        "src_ip": "192.168.1.89",
+        "dst_ip": "171.220.1.1",
+        "src_port": 65024,
+        "dst_port": 22,
+        "protocol": "ICMP",
+        "packet_size": 223,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:25.139232",
+        "src_ip": "192.168.1.30",
+        "dst_ip": "208.153.1.1",
+        "src_port": 58829,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 714,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:27.139232",
+        "src_ip": "192.168.1.253",
+        "dst_ip": "140.205.1.1",
+        "src_port": 16953,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 1141,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:29.139232",
+        "src_ip": "192.168.1.193",
+        "dst_ip": "151.164.1.1",
+        "src_port": 1602,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 1009,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:31.139232",
+        "src_ip": "192.168.1.164",
+        "dst_ip": "56.3.1.1",
+        "src_port": 19487,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 1103,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:33.139232",
+        "src_ip": "192.168.1.231",
+        "dst_ip": "82.151.1.1",
+        "src_port": 1118,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 517,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:35.139232",
+        "src_ip": "192.168.1.126",
+        "dst_ip": "60.243.1.1",
+        "src_port": 11746,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 631,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:37.139232",
+        "src_ip": "192.168.1.169",
+        "dst_ip": "51.146.1.1",
+        "src_port": 50599,
+        "dst_port": 80,
+        "protocol": "TCP",
+        "packet_size": 1108,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:39.139232",
+        "src_ip": "192.168.1.71",
+        "dst_ip": "132.88.1.1",
+        "src_port": 33844,
+        "dst_port": 22,
+        "protocol": "ICMP",
+        "packet_size": 679,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:41.139232",
+        "src_ip": "192.168.1.187",
+        "dst_ip": "117.253.1.1",
+        "src_port": 53368,
+        "dst_port": 1337,
+        "protocol": "TCP",
+        "packet_size": 49796,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:43.139232",
+        "src_ip": "192.168.1.144",
+        "dst_ip": "52.125.1.1",
+        "src_port": 38511,
+        "dst_port": 443,
+        "protocol": "ICMP",
+        "packet_size": 77,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:45.139232",
+        "src_ip": "192.168.1.238",
+        "dst_ip": "51.121.1.1",
+        "src_port": 33429,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 1212,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:47.139232",
+        "src_ip": "192.168.1.57",
+        "dst_ip": "128.204.1.1",
+        "src_port": 45501,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 329,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:49.139232",
+        "src_ip": "192.168.1.163",
+        "dst_ip": "134.11.1.1",
+        "src_port": 5058,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 680,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:51.139232",
+        "src_ip": "192.168.1.235",
+        "dst_ip": "83.193.1.1",
+        "src_port": 60337,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 1386,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:53.139232",
+        "src_ip": "192.168.1.194",
+        "dst_ip": "105.236.1.1",
+        "src_port": 54036,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 651,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:55.139232",
+        "src_ip": "192.168.1.20",
+        "dst_ip": "60.145.1.1",
+        "src_port": 55328,
+        "dst_port": 53,
+        "protocol": "HTTP",
+        "packet_size": 879,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:57.139232",
+        "src_ip": "192.168.1.83",
+        "dst_ip": "164.219.1.1",
+        "src_port": 26194,
+        "dst_port": 23,
+        "protocol": "TCP",
+        "packet_size": 28086,
+        "action": "DENY"
+    },
+    {
+        "timestamp": "2026-02-23T20:21:59.139232",
+        "src_ip": "192.168.1.91",
+        "dst_ip": "219.145.1.1",
+        "src_port": 36520,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 411,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:01.139232",
+        "src_ip": "192.168.1.214",
+        "dst_ip": "208.237.1.1",
+        "src_port": 8210,
+        "dst_port": 443,
+        "protocol": "UDP",
+        "packet_size": 762,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:03.139232",
+        "src_ip": "192.168.1.170",
+        "dst_ip": "121.230.1.1",
+        "src_port": 15391,
+        "dst_port": 22,
+        "protocol": "TCP",
+        "packet_size": 335,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:05.139232",
+        "src_ip": "192.168.1.137",
+        "dst_ip": "82.16.1.1",
+        "src_port": 34419,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 1384,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:07.139232",
+        "src_ip": "192.168.1.194",
+        "dst_ip": "59.146.1.1",
+        "src_port": 48436,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 836,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:09.139232",
+        "src_ip": "192.168.1.17",
+        "dst_ip": "28.21.1.1",
+        "src_port": 27116,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 1201,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:11.139232",
+        "src_ip": "192.168.1.100",
+        "dst_ip": "163.164.1.1",
+        "src_port": 9933,
+        "dst_port": 80,
+        "protocol": "TCP",
+        "packet_size": 822,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:13.139232",
+        "src_ip": "192.168.1.252",
+        "dst_ip": "149.111.1.1",
+        "src_port": 19658,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 771,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:15.139232",
+        "src_ip": "192.168.1.147",
+        "dst_ip": "152.248.1.1",
+        "src_port": 30785,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 653,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:17.139232",
+        "src_ip": "192.168.1.244",
+        "dst_ip": "44.88.1.1",
+        "src_port": 29731,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 659,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:19.139232",
+        "src_ip": "192.168.1.39",
+        "dst_ip": "207.76.1.1",
+        "src_port": 10943,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 212,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:21.139232",
+        "src_ip": "192.168.1.224",
+        "dst_ip": "209.143.1.1",
+        "src_port": 9426,
+        "dst_port": 6667,
+        "protocol": "TCP",
+        "packet_size": 33355,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:23.139232",
+        "src_ip": "192.168.1.5",
+        "dst_ip": "73.148.1.1",
+        "src_port": 10734,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 856,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:25.139232",
+        "src_ip": "192.168.1.65",
+        "dst_ip": "106.121.1.1",
+        "src_port": 49796,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 530,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:27.139232",
+        "src_ip": "192.168.1.148",
+        "dst_ip": "203.60.1.1",
+        "src_port": 59351,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 1162,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:29.139232",
+        "src_ip": "192.168.1.98",
+        "dst_ip": "119.106.1.1",
+        "src_port": 52981,
+        "dst_port": 53,
+        "protocol": "HTTP",
+        "packet_size": 703,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:31.139232",
+        "src_ip": "192.168.1.86",
+        "dst_ip": "197.105.1.1",
+        "src_port": 6529,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 345,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:33.139232",
+        "src_ip": "192.168.1.129",
+        "dst_ip": "188.88.1.1",
+        "src_port": 9075,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 903,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:35.139232",
+        "src_ip": "192.168.1.40",
+        "dst_ip": "142.235.1.1",
+        "src_port": 14823,
+        "dst_port": 443,
+        "protocol": "ICMP",
+        "packet_size": 1228,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:37.139232",
+        "src_ip": "192.168.1.231",
+        "dst_ip": "49.123.1.1",
+        "src_port": 52822,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 1466,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:39.139232",
+        "src_ip": "192.168.1.128",
+        "dst_ip": "94.146.1.1",
+        "src_port": 51510,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 459,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:41.139232",
+        "src_ip": "192.168.1.71",
+        "dst_ip": "70.72.1.1",
+        "src_port": 12066,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 374,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:43.139232",
+        "src_ip": "192.168.1.34",
+        "dst_ip": "126.47.1.1",
+        "src_port": 20806,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 996,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:45.139232",
+        "src_ip": "192.168.1.199",
+        "dst_ip": "77.249.1.1",
+        "src_port": 64769,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 1483,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:47.139232",
+        "src_ip": "192.168.1.201",
+        "dst_ip": "14.172.1.1",
+        "src_port": 6829,
+        "dst_port": 22,
+        "protocol": "TCP",
+        "packet_size": 1423,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:49.139232",
+        "src_ip": "192.168.1.18",
+        "dst_ip": "49.142.1.1",
+        "src_port": 18548,
+        "dst_port": 53,
+        "protocol": "ICMP",
+        "packet_size": 1166,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:51.139232",
+        "src_ip": "192.168.1.134",
+        "dst_ip": "144.185.1.1",
+        "src_port": 10484,
+        "dst_port": 4444,
+        "protocol": "TCP",
+        "packet_size": 44187,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:53.139232",
+        "src_ip": "192.168.1.104",
+        "dst_ip": "160.53.1.1",
+        "src_port": 49999,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 904,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:55.139232",
+        "src_ip": "192.168.1.215",
+        "dst_ip": "216.5.1.1",
+        "src_port": 21346,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 300,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:57.139232",
+        "src_ip": "192.168.1.171",
+        "dst_ip": "90.148.1.1",
+        "src_port": 56186,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 80,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:22:59.139232",
+        "src_ip": "192.168.1.234",
+        "dst_ip": "119.10.1.1",
+        "src_port": 33928,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 164,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:01.139232",
+        "src_ip": "192.168.1.20",
+        "dst_ip": "186.223.1.1",
+        "src_port": 34566,
+        "dst_port": 6667,
+        "protocol": "TCP",
+        "packet_size": 18301,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:03.139232",
+        "src_ip": "192.168.1.96",
+        "dst_ip": "162.250.1.1",
+        "src_port": 24640,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 1150,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:05.139232",
+        "src_ip": "192.168.1.110",
+        "dst_ip": "81.97.1.1",
+        "src_port": 41735,
+        "dst_port": 443,
+        "protocol": "UDP",
+        "packet_size": 933,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:07.139232",
+        "src_ip": "192.168.1.169",
+        "dst_ip": "22.48.1.1",
+        "src_port": 16181,
+        "dst_port": 53,
+        "protocol": "HTTP",
+        "packet_size": 203,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:09.139232",
+        "src_ip": "192.168.1.91",
+        "dst_ip": "67.75.1.1",
+        "src_port": 21013,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 1318,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:11.139232",
+        "src_ip": "192.168.1.67",
+        "dst_ip": "218.54.1.1",
+        "src_port": 24951,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 672,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:13.139232",
+        "src_ip": "192.168.1.25",
+        "dst_ip": "118.85.1.1",
+        "src_port": 56138,
+        "dst_port": 4444,
+        "protocol": "TCP",
+        "packet_size": 48392,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:15.139232",
+        "src_ip": "192.168.1.11",
+        "dst_ip": "133.250.1.1",
+        "src_port": 63814,
+        "dst_port": 443,
+        "protocol": "HTTP",
+        "packet_size": 205,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:17.139232",
+        "src_ip": "192.168.1.162",
+        "dst_ip": "220.29.1.1",
+        "src_port": 35241,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 548,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:19.139232",
+        "src_ip": "192.168.1.44",
+        "dst_ip": "80.138.1.1",
+        "src_port": 24197,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 413,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:21.139232",
+        "src_ip": "192.168.1.28",
+        "dst_ip": "156.17.1.1",
+        "src_port": 3815,
+        "dst_port": 80,
+        "protocol": "TCP",
+        "packet_size": 1434,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:23.139232",
+        "src_ip": "192.168.1.164",
+        "dst_ip": "184.229.1.1",
+        "src_port": 11978,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 97,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:25.139232",
+        "src_ip": "192.168.1.229",
+        "dst_ip": "190.252.1.1",
+        "src_port": 61612,
+        "dst_port": 23,
+        "protocol": "TCP",
+        "packet_size": 26919,
+        "action": "DENY"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:27.139232",
+        "src_ip": "192.168.1.179",
+        "dst_ip": "67.58.1.1",
+        "src_port": 27375,
+        "dst_port": 22,
+        "protocol": "HTTP",
+        "packet_size": 1022,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:29.139232",
+        "src_ip": "192.168.1.199",
+        "dst_ip": "62.50.1.1",
+        "src_port": 41810,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 1440,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:31.139232",
+        "src_ip": "192.168.1.67",
+        "dst_ip": "65.118.1.1",
+        "src_port": 12571,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 743,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:33.139232",
+        "src_ip": "192.168.1.222",
+        "dst_ip": "89.153.1.1",
+        "src_port": 13124,
+        "dst_port": 53,
+        "protocol": "TCP",
+        "packet_size": 228,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:35.139232",
+        "src_ip": "192.168.1.222",
+        "dst_ip": "69.84.1.1",
+        "src_port": 15488,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 100,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:37.139232",
+        "src_ip": "192.168.1.9",
+        "dst_ip": "190.204.1.1",
+        "src_port": 56495,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 821,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:39.139232",
+        "src_ip": "192.168.1.213",
+        "dst_ip": "79.214.1.1",
+        "src_port": 32808,
+        "dst_port": 22,
+        "protocol": "ICMP",
+        "packet_size": 256,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:41.139232",
+        "src_ip": "192.168.1.132",
+        "dst_ip": "101.87.1.1",
+        "src_port": 23272,
+        "dst_port": 53,
+        "protocol": "ICMP",
+        "packet_size": 409,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:43.139232",
+        "src_ip": "192.168.1.4",
+        "dst_ip": "184.97.1.1",
+        "src_port": 46851,
+        "dst_port": 80,
+        "protocol": "TCP",
+        "packet_size": 526,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:45.139232",
+        "src_ip": "192.168.1.7",
+        "dst_ip": "98.237.1.1",
+        "src_port": 13613,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 284,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:47.139232",
+        "src_ip": "192.168.1.105",
+        "dst_ip": "25.201.1.1",
+        "src_port": 27045,
+        "dst_port": 443,
+        "protocol": "UDP",
+        "packet_size": 1128,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:49.139232",
+        "src_ip": "192.168.1.5",
+        "dst_ip": "21.47.1.1",
+        "src_port": 56292,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 601,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:51.139232",
+        "src_ip": "192.168.1.142",
+        "dst_ip": "202.227.1.1",
+        "src_port": 23387,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 197,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:53.139232",
+        "src_ip": "192.168.1.95",
+        "dst_ip": "133.233.1.1",
+        "src_port": 45259,
+        "dst_port": 80,
+        "protocol": "HTTP",
+        "packet_size": 117,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:55.139232",
+        "src_ip": "192.168.1.73",
+        "dst_ip": "23.246.1.1",
+        "src_port": 60425,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 649,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:57.139232",
+        "src_ip": "192.168.1.205",
+        "dst_ip": "217.108.1.1",
+        "src_port": 46149,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 152,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:23:59.139232",
+        "src_ip": "192.168.1.226",
+        "dst_ip": "156.92.1.1",
+        "src_port": 5037,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 1416,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:01.139232",
+        "src_ip": "192.168.1.204",
+        "dst_ip": "215.139.1.1",
+        "src_port": 50975,
+        "dst_port": 443,
+        "protocol": "TCP",
+        "packet_size": 1287,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:03.139232",
+        "src_ip": "192.168.1.81",
+        "dst_ip": "1.103.1.1",
+        "src_port": 61123,
+        "dst_port": 443,
+        "protocol": "UDP",
+        "packet_size": 247,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:05.139232",
+        "src_ip": "192.168.1.68",
+        "dst_ip": "140.83.1.1",
+        "src_port": 45368,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 661,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:07.139232",
+        "src_ip": "192.168.1.226",
+        "dst_ip": "18.250.1.1",
+        "src_port": 54034,
+        "dst_port": 22,
+        "protocol": "UDP",
+        "packet_size": 1113,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:09.139232",
+        "src_ip": "192.168.1.202",
+        "dst_ip": "2.126.1.1",
+        "src_port": 19471,
+        "dst_port": 443,
+        "protocol": "UDP",
+        "packet_size": 391,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:11.139232",
+        "src_ip": "192.168.1.158",
+        "dst_ip": "206.200.1.1",
+        "src_port": 42759,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 1179,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:13.139232",
+        "src_ip": "192.168.1.197",
+        "dst_ip": "204.212.1.1",
+        "src_port": 43474,
+        "dst_port": 80,
+        "protocol": "TCP",
+        "packet_size": 1188,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:15.139232",
+        "src_ip": "192.168.1.234",
+        "dst_ip": "200.27.1.1",
+        "src_port": 13381,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 1182,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:17.139232",
+        "src_ip": "192.168.1.128",
+        "dst_ip": "67.249.1.1",
+        "src_port": 23151,
+        "dst_port": 80,
+        "protocol": "UDP",
+        "packet_size": 1018,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:19.139232",
+        "src_ip": "192.168.1.211",
+        "dst_ip": "21.252.1.1",
+        "src_port": 65218,
+        "dst_port": 53,
+        "protocol": "UDP",
+        "packet_size": 1419,
+        "action": "ALLOW"
+    },
+    {
+        "timestamp": "2026-02-23T20:24:21.139232",
+        "src_ip": "192.168.1.182",
+        "dst_ip": "159.123.1.1",
+        "src_port": 10537,
+        "dst_port": 80,
+        "protocol": "ICMP",
+        "packet_size": 1045,
+        "action": "ALLOW"
+    }
+]
